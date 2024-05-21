@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bilyanakarcheva
 - 👀 I’m interested in developing my programming skills.
 - 🌱 I have previously finished the C# path in Softuni and I'm currently delving into the Alpha JS program in Telerik Academy.
-- 💞️ I’m looking for my first hands-on experience in the Programming world.
+- 💞️ I’m passionate about programming and enjoy solving complex problems.
 - 📫 How to reach me karcheva.bilyana@gmail.com.
 
 <!---
