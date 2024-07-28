@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Bilyana Karcheva
   
   ## 👩‍💻 About me
-I am a Software Developer based in Pleven, Bulgaria (willing to relocate) 🚀. I have recently graduated from the Alpha JavaScript program at Telerik Academy, where I received accolades for my final project and recognition from the trainers as one of the top-performing students. My previous experience as a Senior Technical Analyst helped me I develop strong analytical thinking, problem-solving, and client-oriented skills through extensive software support and managing technical issues, resulting in high user satisfaction. I am highly organized, responsible, and detail-oriented, with a proven ability to prioritize tasks and ensure smooth operations.
+I am a Software Developer based in Pleven, Bulgaria (willing to relocate) 🚀. I have recently graduated from the Alpha JavaScript program at Telerik Academy, where I received accolades for my final project -[Sports Calendar](https://github.com/A58-JS-Team-07/web-project-3) and recognition from the trainers as one of the top-performing students. My previous experience as a Senior Technical Analyst helped me I develop strong analytical thinking, problem-solving, and client-oriented skills through extensive software support and managing technical issues, resulting in high user satisfaction. I am highly organized, responsible, and detail-oriented, with a proven ability to prioritize tasks and ensure smooth operations.
   
 
 <br/>  
@@ -32,9 +32,9 @@ I am a Software Developer based in Pleven, Bulgaria (willing to relocate) 🚀. 
 ## 📫 Connect with me  
 <div align="left">
 <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-<a style="position: relative; top: -20px;">- https://www.linkedin.com/in/bilyana-karcheva-a45b26105/</a>
+<a style="position: relative; top: -20px;"> https://www.linkedin.com/in/bilyana-karcheva-a45b26105/</a>
 </br> 
-<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" /> <a style="position: relative; top: -20px;">- karcheva.bilyana@gmail.com</a>
+<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" /> <a style="position: relative; top: -20px;"> karcheva.bilyana@gmail.com</a>
 </div>  
    
 
