@@ -32,7 +32,6 @@ I am a Software Developer based in Pleven, Bulgaria (willing to relocate) 🚀. 
 ## 📫 Connect with me  
 - [LinkedIn](https://www.linkedin.com/in/bilyana-karcheva-a45b26105/)
 - Email: karcheva.bilyana@gmail.com
-- [GitHub](https://github.com/A58-JS-Team-07/web-project-3) 
    
 
 ##
