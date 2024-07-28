@@ -36,5 +36,5 @@ I am a Software Developer based in Pleven, Bulgaria (willing to relocate) 🚀. 
 
 ##
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=bilyanakarcheva&label=Views&color=11&icon=0&pretty=true" />
-</a> 
+  <img src="https://visitcount.itsvg.in/api?id=bilyanakarcheva&label=Profile%20Views&color=11&icon=0&pretty=false" />
+</a>
