@@ -32,9 +32,9 @@ I am a Software Developer based in Pleven, Bulgaria (willing to relocate) 🚀. 
 ## 📫 Connect with me  
 <div align="left">
 <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-<a style="position: relative; top: -10px;">- https://www.linkedin.com/in/bilyana-karcheva-a45b26105/</a>
+<a style="position: relative; top: -20px;">- https://www.linkedin.com/in/bilyana-karcheva-a45b26105/</a>
 </br> 
-<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" /> <a style="position: relative; top: -10px;">- karcheva.bilyana@gmail.com</a>
+<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" /> <a style="position: relative; top: -20px;">- karcheva.bilyana@gmail.com</a>
 </div>  
    
 
