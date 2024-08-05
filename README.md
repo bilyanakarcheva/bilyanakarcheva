@@ -28,6 +28,14 @@ I am a Software Developer based in Pleven, Bulgaria (willing to relocate) 🚀. 
 
 <br/>  
 
+## 🌱 What I am working on
+
+- Enroll in a TypeScript course in Telerik Academy
+
+- Work on my Portfolio
+
+
+
 
 ## 📫 Connect with me  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/bilyana-karcheva-a45b26105/)
