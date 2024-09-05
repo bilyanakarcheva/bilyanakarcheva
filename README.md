@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Bilyana Karcheva
   
   ## 👩‍💻 About me
-I am a Software Developer based in Pleven, Bulgaria (willing to relocate) 🚀. I have recently graduated from the Alpha JavaScript program at Telerik Academy, where I received accolades for my final project - [Sports Calendar](https://github.com/A58-JS-Team-07/web-project-3) and recognition from the trainers as one of the top-performing students. My previous experience as a Senior Technical Analyst helped me I develop strong analytical thinking, problem-solving, and client-oriented skills through extensive software support and managing technical issues, resulting in high user satisfaction. I am highly organized, responsible, and detail-oriented, with a proven ability to prioritize tasks and ensure smooth operations.
+I’m a Software Developer based in Pleven, Bulgaria, open to relocation. I recently graduated from Telerik Academy's Alpha JavaScript program, where my final project, [Sports Calendar](https://github.com/A58-JS-Team-07/web-project-3), earned accolades, and I was recognized as a top-performing student. Previously, as a Senior Technical Analyst, I honed my analytical thinking, problem-solving, and client-oriented skills by providing software support and resolving technical issues, achieving high user satisfaction. I am highly organized, responsible, and detail-oriented, with a proven ability to prioritize tasks and ensure smooth operations.
   
 
 <br/>  
