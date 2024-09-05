@@ -30,8 +30,8 @@ I am a Software Developer based in Pleven, Bulgaria (willing to relocate) 🚀. 
 
 ## 🌱 What I am working on
 
-- Enroll in a TypeScript course
-- Work on my portfolio
+- Enrolled in a TypeScript course
+- My portfolio
 
 
 
