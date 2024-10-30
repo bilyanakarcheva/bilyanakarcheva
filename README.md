@@ -30,6 +30,7 @@ I’m a Software Developer based in Pleven, Bulgaria, open to relocation. I rece
 
 ## 🌱 What I am working on
 
+- Smaller react projects to polish my skills
 - Enrolled in a TypeScript course
 - My portfolio
 
