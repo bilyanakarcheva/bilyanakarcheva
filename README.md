@@ -28,14 +28,19 @@ I’m a Software Developer based in Pleven, Bulgaria, open to relocation. I rece
 
 <br/>  
 
-## 🌱 What I am working on
+## 🌱 What I Am Working On
+- Building smaller React projects to refine my development skills.
+- Exploring new frameworks and tools to expand my technical expertise.
+- Create a personal website to showcase all my projects and technical skills in a more structured and accessible manner.
 
-- Smaller React projects to polish my skills
-- Using new frameworks and tools to expand my skillset
-- Enrolled in a TypeScript course
-- My portfolio
+  
+## ✔️ What I Have Completed
+- Notes App React Project: A full-stack React application demonstrating CRUD functionality and theme customization.
+- Gained hands-on experience with Express.js, leveraging it for building RESTful APIs.
 
-
+## 🚀 Future Plans
+- Create more advanced full-stack projects using a tech stack, such as MERN or PERN.
+- Developing and enhancing my portfolio to showcase my work.
 
 
 ## 📫 Connect with me  
