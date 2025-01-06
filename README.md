@@ -46,9 +46,3 @@ I’m a Software Developer based in Pleven, Bulgaria, open to relocation. I rece
 ## 📫 Connect with me  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/bilyana-karcheva-a45b26105/)
 - ✉️ Email: karcheva.bilyana@gmail.com 
-   
-
-##
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=bilyanakarcheva&label=Profile%20Views&color=11&icon=0&pretty=false" />
-</a>
